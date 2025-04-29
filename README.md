@@ -2,7 +2,7 @@
 Car price prediction using linear regression major project of data science 1st sem MCA project
 
 
-# Car Price Predictor
+# - Car Price Predictor
 
 Project link: https://car-price-price.herokuapp.com
 Demo Video: https://youtu.be/HEaFU68WAPM
